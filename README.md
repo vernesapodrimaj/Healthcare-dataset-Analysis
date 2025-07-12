@@ -4,7 +4,7 @@ Exploratory Data Analysis (EDA) of a hospital dataset covering demographics, med
 
 ---
 
-## 📁 Dataset Overview
+## Dataset Overview
 
 -  **Source**: [Kaggle Healthcare Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
 -  **Rows**: ~55,000
