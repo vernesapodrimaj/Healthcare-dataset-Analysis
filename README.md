@@ -1,4 +1,4 @@
-# 🏥 Healthcare Dataset Analysis with Python
+# Healthcare Dataset Analysis with Python
 
 Exploratory Data Analysis (EDA) of a hospital dataset covering demographics, medical conditions, billing, and hospital stay details. The goal is to uncover patterns in treatment costs, conditions, gender distribution, and length of stay.
 
@@ -6,13 +6,13 @@ Exploratory Data Analysis (EDA) of a hospital dataset covering demographics, med
 
 ## 📁 Dataset Overview
 
-- 📊 **Source**: [Kaggle Healthcare Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
-- 🔢 **Rows**: ~55,000
-- 📌 **Columns**: Name, Age, Gender, Blood Type, Medical Condition, Doctor, Insurance, Admission/Discharge Dates, Billing, etc.
+-  **Source**: [Kaggle Healthcare Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
+-  **Rows**: ~55,000
+- **Columns**: Name, Age, Gender, Blood Type, Medical Condition, Doctor, Insurance, Admission/Discharge Dates, Billing, etc.
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - `pandas` – data loading & cleaning  
 - `matplotlib`, `seaborn` – visualization  
