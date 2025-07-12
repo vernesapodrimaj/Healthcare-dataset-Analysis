@@ -14,10 +14,10 @@ Exploratory Data Analysis (EDA) of a hospital dataset covering demographics, med
 
 ## Tools Used
 
-- `pandas` – data loading & cleaning  
-- `matplotlib`, `seaborn` – visualization  
-- `numpy` – basic math operations  
-- `Jupyter Notebook` – interactive analysis
+- `pandas`: data loading & cleaning  
+- `matplotlib`, `seaborn`: visualization  
+- `numpy`: basic math operations  
+- `Jupyter Notebook`: interactive analysis
 
 ---
 
