@@ -122,3 +122,6 @@ plt.xlabel('Admission Type')
 plt.ylabel('Medical Condition')
 plt.tight_layout()
 plt.show()
+
+#
+df.to_csv("/Users/vernesapodrimaj/Documents/health_care.csv", index=False)
